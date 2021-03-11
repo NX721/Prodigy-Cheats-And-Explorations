@@ -1,5 +1,6 @@
 // Generates 100 Arena Points each 60.5 Seconds.
 // Does not work if you spam in console. (Ctrl+Shift+I)
+// Credit to PatheticMustan.
 
 setInterval(function(){await (
     await fetch(
